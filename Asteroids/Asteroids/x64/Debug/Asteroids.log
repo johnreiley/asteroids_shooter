@@ -1,0 +1,36 @@
+﻿  velocity.cpp
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\velocity.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\velocity.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  uiInteract.cpp
+  uiDraw.cpp
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\uidraw.cpp(183): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\uidraw.cpp(184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\uidraw.cpp(459): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\uidraw.cpp(502): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\uidraw.cpp(503): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\uidraw.cpp(511): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\uidraw.cpp(512): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\uidraw.cpp(557): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\uidraw.cpp(560): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ship.cpp
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\ship.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\ship.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  rocks.cpp
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\rocks.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\rocks.cpp(78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\rocks.cpp(84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\rocks.cpp(88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\rocks.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\rocks.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  point.cpp
+  game.cpp
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\game.cpp(177): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\game.cpp(178): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  flyingObject.cpp
+  driver.cpp
+  bullet.cpp
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\bullet.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\bullet.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Asteroids.vcxproj -> C:\Users\super\OneDrive - BYU-Idaho\College\Semester 3 Spring 2018\CS 165\FILES\Projects\13 - Asteroids\Milestone 2\Asteroids\x64\Debug\Asteroids.exe
+  Asteroids.vcxproj -> C:\Users\super\OneDrive - BYU-Idaho\College\Semester 3 Spring 2018\CS 165\FILES\Projects\13 - Asteroids\Milestone 2\Asteroids\x64\Debug\Asteroids.pdb (Partial PDB)

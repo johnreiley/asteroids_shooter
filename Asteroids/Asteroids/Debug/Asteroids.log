@@ -1,0 +1,5 @@
+﻿  ship.cpp
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\ship.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\super\onedrive - byu-idaho\college\semester 3 spring 2018\cs 165\files\projects\13 - asteroids\milestone 2\asteroids\asteroids\ship.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Asteroids.vcxproj -> C:\Users\super\OneDrive - BYU-Idaho\College\Semester 3 Spring 2018\CS 165\FILES\Projects\13 - Asteroids\Milestone 2\Asteroids\Debug\Asteroids.exe
+  Asteroids.vcxproj -> C:\Users\super\OneDrive - BYU-Idaho\College\Semester 3 Spring 2018\CS 165\FILES\Projects\13 - Asteroids\Milestone 2\Asteroids\Debug\Asteroids.pdb (Partial PDB)
